@@ -14,10 +14,7 @@ const MapBelow = () => {
                 <div className="flex mt-5 pr-3">
 
                     {/* Profile Name */}
-                    <p className="flex-1 text-center sm:text-lg text-sm font-serif mr-2 pt-3 font-bold ">Shreyansh Singh</p>
-
-                    {/* Profile image */}
-                    <img className="rounded-full h-10 w-10 object-contain mr-4" src="https://avatars.githubusercontent.com/u/91277635?s=96&v=4" alt="../" />
+                    <p className="flex-1 text-center sm:text-lg text-sm font-serif mr-2 pt-3 font-bold ">Final Project</p>
 
                 </div>
             </div>
